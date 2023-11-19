@@ -10,10 +10,10 @@ Breast cancer is a prevalent and life-threatening disease that impacts millions 
 
 ## Deliverables
 
-Check out my research paper [here](https://github.com/KaitlynLeung08/Early-Breast-Cancer-Detection/blob/main/Classification%20of%20Early%20Breast%20Cancer%20using%20Convolutional%20Neural%20Networks%20%20.pdf)!
+Check out my Research Paper: [here](https://github.com/KaitlynLeung08/Early-Breast-Cancer-Detection/blob/main/Classification%20of%20Early%20Breast%20Cancer%20using%20Convolutional%20Neural%20Networks%20%20.pdf)!
 
-Check out my elevator pitch [here](insert-youtube-link-here)!
+Check out my Elevator Pitch: [here](insert-youtube-link-here)!
 
-Transcript to my elevator pitch: [here](https://github.com/KaitlynLeung08/Early-Breast-Cancer-Detection/blob/main/Elevator%20Pitch%20Transcript%20-%20Early%20Breast%20Cancer%20Detection%20System%20-%20Google%20Docs.pdf)
+Transcript to my Elevator Pitch: [here](https://github.com/KaitlynLeung08/Early-Breast-Cancer-Detection/blob/main/Elevator%20Pitch%20Transcript%20-%20Early%20Breast%20Cancer%20Detection%20System%20-%20Google%20Docs.pdf)
 
 
