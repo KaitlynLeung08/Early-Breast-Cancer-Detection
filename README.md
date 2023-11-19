@@ -13,7 +13,7 @@ HI i am kaitlyn, working for the last 3 months, very intreseted in healthcare,et
 - 
 ## Deliverables
 
-Check out my research paper [here]()!
+Check out my research paper [here](https://github.com/KaitlynLeung08/Early-Breast-Cancer-Detection/blob/main/Rough%20Research%20Paper%20Draft.pdf)!
 
 Check out my elevator pitch [here](insert-youtube-link-here)!
 
